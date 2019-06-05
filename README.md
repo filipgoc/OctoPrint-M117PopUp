@@ -1,6 +1,6 @@
-# OctoPrint-M0PopUp
+# OctoPrint-M0-PopUp (Not M117)
 
-This is a (planned) modification of the M117 plugin for M0. 
+**This is a (planned) modification of the M117 plugin for M0.** 
 
 ---
 
