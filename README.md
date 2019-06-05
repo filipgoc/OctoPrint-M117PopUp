@@ -1,4 +1,8 @@
-# OctoPrint-M117PopUp
+# OctoPrint-M0PopUp
+
+This is a (planned) modification of the M117 plugin for M0. 
+
+---
 
 Octoprint plugin to send M117 gcode messages to OctoPrint's built in alerting system.
 
